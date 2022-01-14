@@ -13,10 +13,10 @@ const Sitebar = () => {
                     <Link to="/cats" className="site-link">Cat Challenge</Link>
                 </NavItem>
                 <NavItem>
-                    <Link to="/search" className="site-link">Search Challenge</Link>
+                    <Link to="/dogs" className="site-link">Dog Challenge</Link>
                 </NavItem>
                 <NavItem>
-                    <Link to="/dogs" className="site-link">Dog Challenge</Link>
+                    <Link to="/search" className="site-link">Search Challenge</Link>
                 </NavItem>
                 <NavItem>
                     <Link to="/todo" className="site-link">ToDo Challenge</Link>
